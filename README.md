@@ -4,6 +4,8 @@
 [![Documentation](https://docs.rs/bevy-steamworks/badge.svg)](https://docs.rs/bevy-steamworks)
 ![License](https://img.shields.io/crates/l/bevy-steamworks.svg)
 
+# Fork to test a fix for rich presence
+
 This crate provides a [Bevy](https://bevyengine.org/) plugin for integrating with
 the Steamworks SDK.
 
