@@ -12,7 +12,7 @@ keywords = ["bevy", "gamedev", "steam"]
 default = []
 
 [dependencies]
-bevy_log = "0.9"
+bevy_log = "0.10"
 bevy_app = "0.9"
 bevy_ecs = "0.9"
 steamworks = {git="https://github.com/Noxime/steamworks-rs", branch="master"}
